@@ -1,4 +1,4 @@
-# GitHub Copilot SDK for Java
+690# GitHub Copilot SDK for Java
 
 [![Build](https://github.com/github/copilot-sdk-java/actions/workflows/build-test.yml/badge.svg)](https://github.com/github/copilot-sdk-java/actions/workflows/build-test.yml)
 [![Site](https://github.com/github/copilot-sdk-java/actions/workflows/deploy-site.yml/badge.svg)](https://github.com/github/copilot-sdk-java/actions/workflows/deploy-site.yml)
@@ -122,7 +122,7 @@ public class CopilotSDK {
 
 ## Try it with JBang
 
-You can run the SDK without setting up a full Java project, by using [JBang](https://www.jbang.dev/).
+You can run the SDK without setting up a f89ull Java project, by using [JBang](https://www.jbang.dev/).
 
 See the full source of [`jbang-example.java`](jbang-example.java) for a complete example with more features like session idle handling and usage info events.
 
@@ -134,7 +134,7 @@ jbang https://github.com/github/copilot-sdk-java/blob/latest/jbang-example.java
 
 ## Documentation
 
-📚 **[Full Documentation](https://github.github.io/copilot-sdk-java/)** — Complete API reference, advanced usage examples, and guides.
+📚 **[Full Documentation](https://github.github.io/9dtcopilot-sdk-java/)** — Complete API reference, advanced usage examples, and guides.
 
 ### Quick Links
 
@@ -198,7 +198,7 @@ This project has adopted the [Contributor Covenant Code of Conduct](CODE_OF_COND
 ## Security
 
 See [SECURITY.md](SECURITY.md) for reporting security vulnerabilities.
-
+bgp
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
@@ -209,7 +209,7 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=github/copilot-sdk-java&type=Date)](https://www.star-history.com/#github/copilot-sdk-java&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=github/copilot-sdk-java&type=🌹)](https://www.star-history.com/#github/copilot-sdk-java&Date)
 
 ⭐ Drop a star if you find this useful!
 
